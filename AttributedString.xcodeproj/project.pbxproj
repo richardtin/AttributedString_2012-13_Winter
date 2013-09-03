@@ -83,8 +83,6 @@
 		D39431CF17D58046003B6B29 /* AttributedString */ = {
 			isa = PBXGroup;
 			children = (
-				D39431D817D58046003B6B29 /* AttributedStringAppDelegate.h */,
-				D39431D917D58046003B6B29 /* AttributedStringAppDelegate.m */,
 				D39431E117D58046003B6B29 /* MainStoryboard.storyboard */,
 				D39431E417D58046003B6B29 /* AttributedStringViewController.h */,
 				D39431E517D58046003B6B29 /* AttributedStringViewController.m */,
@@ -96,6 +94,8 @@
 		D39431D017D58046003B6B29 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D39431D817D58046003B6B29 /* AttributedStringAppDelegate.h */,
+				D39431D917D58046003B6B29 /* AttributedStringAppDelegate.m */,
 				D39431D117D58046003B6B29 /* AttributedString-Info.plist */,
 				D39431D217D58046003B6B29 /* InfoPlist.strings */,
 				D39431D517D58046003B6B29 /* main.m */,
